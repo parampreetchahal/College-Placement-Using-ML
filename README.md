@@ -1,6 +1,3 @@
-Here’s a **README.md** file for your **College Placement Analysis** GitHub repository:  
-
----
 
 ### **📘 College Placement Analysis**  
 
@@ -76,4 +73,3 @@ jupyter notebook college_placement.ipynb
 
 ---
 
-Would you like any modifications or additions? 🚀
